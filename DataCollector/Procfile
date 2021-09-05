@@ -1,0 +1,1 @@
+getter: go .DataCollector\quickstart.go
